@@ -11,7 +11,7 @@
 ## 1) Problema, motivación y alcance
 
 ### Problema
-Predecir si un usuario **hará churn** (cancelará/no renovará) **después de expirar su suscripción**, usando su historial de comportamiento y transacciones del challenge **WSDM Cup 2018 (KKBOX)**. :contentReference[oaicite:0]{index=0}
+Predecir si un usuario **hará churn** (cancelará/no renovará) **después de expirar su suscripción**, usando su historial de comportamiento y transacciones del challenge **WSDM Cup 2018 (KKBOX)**.
 
 ### Motivación
 - El churn suele estar precedido por **degradación del engagement** (menos actividad, menor tiempo total, cambios en patrones de escucha), lo cual es inherentemente **temporal/secuencial**.
